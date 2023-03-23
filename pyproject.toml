@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "gbpowermarkets"
+version = "0.1.0"
+description = "analytics tools for gb power markets"
+authors = ["Imran Mannan"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
