@@ -1,9 +1,9 @@
 [tool.poetry]
 name = "gbpowermarkets"
 version = "0.1.0"
-description = "analytics tools for gb power markets"
-authors = ["Imran Mannan"]
-license = "MIT"
+description = "tools for analysing gb power markets"
+authors = ["Imran"]
+license = "MIT Licence"
 readme = "README.md"
 
 [tool.poetry.dependencies]
